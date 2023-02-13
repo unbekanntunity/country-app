@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.back {
+  margin-bottom: 40px;
+}
+
+.countryInfos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
